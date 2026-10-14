@@ -7,5 +7,7 @@ namespace Git1
     internal class Person
     {
         public string Name { get; set; }
+
+        public int Birthyear { get; set; }
     }
 }
